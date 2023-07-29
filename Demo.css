@@ -1,0 +1,20 @@
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    letter-spacing: normal;
+    text-align: center;
+    text-shadow: 5px;
+    text-transform: uppercase;
+    margin: 5%;
+    border: 10px;
+    color: rgb(125, 145, 95);
+    background-color: aqua;
+    padding: 3px, 7px;
+    display: inline;
+    cursor: cell;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+}
