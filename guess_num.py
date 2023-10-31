@@ -8,9 +8,9 @@ while guess != n:
     guess = int(input('Your try: '))
     if guess > n:
         print('you lose')
-        break
+      #  break
     if guess < n:
         print('you lose')
-        break
+      #  break
     if guess == n:
         print("you win the game")
